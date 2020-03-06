@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gomodule/redigo/redis"
+	"redisgo/redis"
 )
 
 type valueError struct {
